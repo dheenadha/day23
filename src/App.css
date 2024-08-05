@@ -1,0 +1,13 @@
+/* Styling to differentiate actual price to offer Price */
+.strike {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+
+.pic {
+  background: url(https://www.psg.fr/media/257463/backdrop-16-9.jpg?center=0.514792899408284,0.38666666666666666&mode=crop&width=1200&height=675&quality=75);
+}
+
+.navbar {
+  background: radial-gradient(circle, rgb(131, 123, 123), rgb(53, 51, 51));
+}
